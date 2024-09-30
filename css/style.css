@@ -532,6 +532,14 @@
     color: var(--dark);
 }
 
+/*** Botão WhatsApp ***/
+
+.whatsapp {
+    position: fixed;
+    bottom: 35px;
+    right: 5%;
+    z-index: 9999;
+}
 
 /*** Footer ***/
 .footer .btn.btn-social {
